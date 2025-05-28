@@ -30,9 +30,10 @@ construction-graph-tag-medical-hud = medical hud
 # security
 construction-graph-tag-sun-glasses = sun glasses
 construction-graph-tag-security-helmet = security helmet
+construction-graph-tag-strobe-shield = strobe riot shield
 
 # materials
-construction-graph-tag-capacitor = capacitor
+construction-graph-tag-manipulator = modular machine part
 construction-graph-tag-voice-trigger = a voice trigger
 construction-graph-tag-signal-trigger = a signal trigger
 construction-graph-tag-proximity-sensor = proximity sensor
@@ -68,6 +69,7 @@ construction-graph-tag-match-stick = match stick
 construction-graph-tag-potato = a potato
 construction-graph-tag-wheat-bushel = wheat bushel
 construction-graph-tag-corgi-hide = corgi hide
+soil-construction-graph-any-mushroom = any mushroom
 
 # toys
 construction-graph-tag-rubber-ducky = a rubber ducky
