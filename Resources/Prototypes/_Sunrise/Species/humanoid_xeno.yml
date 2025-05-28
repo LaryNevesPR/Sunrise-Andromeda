@@ -9,7 +9,7 @@
   markingLimits: MobHumanoidXenoMarkingLimits
   dollPrototype: MobXenoDummy
   skinColoration: TintedHues
-  sponsorOnly: true
+  #sponsorOnly: true
   buttScanTexture: /Textures/_Sunrise/ButtsScans/human.png
 
 - type: bodyType

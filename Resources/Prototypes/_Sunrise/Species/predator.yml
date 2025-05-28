@@ -9,7 +9,7 @@
   markingLimits: MobPredatorMarkingLimits
   dollPrototype: MobPredatorDummy
   skinColoration: None
-  sponsorOnly: true
+  #sponsorOnly: true
   buttScanTexture: /Textures/_Sunrise/ButtsScans/human.png
 
 - type: bodyType

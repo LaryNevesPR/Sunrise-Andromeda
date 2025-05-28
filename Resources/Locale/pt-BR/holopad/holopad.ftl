@@ -1,7 +1,7 @@
 # Window headers
-holopad-window-title = { CAPITALIZE($title) }
-holopad-window-subtitle = Sistema de comunicação holográfica
-holopad-window-options = [color=darkgray] [tamanho_10] [italic] Por favor, selecione a opção na lista abaixo.
+holopad-window-title = {CAPITALIZE($title)}
+holopad-window-subtitle = [color=white][bold]Sistema de comunicação holográfica[/bold][/color]
+holopad-window-options = [color=darkgray][font size=10][italic]Por favor, selecione a opção na lista abaixo.[/italic][/font][/color]
 # Call status
 holopad-window-no-calls-in-progress = Sem dormência ativa.
 holopad-window-incoming-call = Chegando dormente de:
@@ -20,18 +20,18 @@ holopad-window-end-call = Complete a chamada.
 holopad-window-request-station-ai = Solicite a IA da estação.
 holopad-window-activate-projector = Ative o projetor.
 holopad-window-emergency-broadcast = Transmissão de emergência
-holopad-window-emergency-broadcast-with-countdown = Transmissão de emergência ({ $countdown })
+holopad-window-emergency-broadcast-with-countdown = Transmissão de emergência ({$countdown})
 holopad-window-access-denied = Acesso negado.
 # Contact list
 holopad-window-select-contact-from-list = Escolha um contato para iniciar um holoplop.
 holopad-window-fetching-contacts-list = Nenhum holofall disponível para comunicação.
-holopad-window-contact-label = { CAPITALIZE($label) }
+holopad-window-contact-label = {CAPITALIZE($label)}
 holopad-window-filter-line-placeholder = Procura de contato.
 # Flavor
 holopad-window-flavor-left = Não entre com um projetor ativo.
 holopad-window-flavor-right = V3.9.9
 # Holograms
-holopad-hologram-name = Holograma { THE($name) }
+holopad-hologram-name = Holograma {THE($name)}
 # Holopad actions
 holopad-activate-projector-verb = Ativar o projetor holodo
 holopad-ai-is-unable-to-reach-holopad = Você não pode se conectar à fonte da chamada, está muito longe do seu núcleo.
