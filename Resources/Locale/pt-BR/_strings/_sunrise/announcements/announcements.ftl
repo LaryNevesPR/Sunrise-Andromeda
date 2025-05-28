@@ -1,0 +1,2 @@
+announcement-gamma-armory = O Comando Central decidiu enviar uma nave com um arsenal de Código Gama para eliminar a ameaça na estação. A nave está atracada em {$location}. Aguarde! Glória ao NT!
+announcements-welcome = Bem-vindo à estação espacial, aproveite sua estadia.
